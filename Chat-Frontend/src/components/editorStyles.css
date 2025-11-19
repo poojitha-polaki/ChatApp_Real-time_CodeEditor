@@ -1,0 +1,15 @@
+#realTimeEditor {
+    border: none;
+    cursor:auto;
+    font-size: large;
+    overflow: hidden;
+}
+
+.cm-editor {
+    height: 100%;
+    outline: none !important;
+}
+
+.cm-announced {
+    height: 100%;
+}

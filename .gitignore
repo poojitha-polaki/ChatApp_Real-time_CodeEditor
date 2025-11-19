@@ -1,0 +1,16 @@
+# Node modules
+Chat-Frontend/node_modules/
+Chat-Backend/node_modules/
+
+# Env files
+Chat-Frontend/.env
+Chat-Backend/.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Build files
+Chat-Frontend/build/
